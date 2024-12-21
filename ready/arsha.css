@@ -13,7 +13,7 @@
 }
 .getstart:hover{
     background-color: rgba(36, 94, 65, 1);
-    border:1px solid rgba(36, 94, 65, 1);
+    /* border:1px solid rgba(36, 94, 65, 1); */
     color: white;
 }
 watchnow{
